@@ -1,6 +1,10 @@
 { config, pkgs, ... }:
 
 {
+  imports = [
+    ./modules/home-manager/kde/default.nix
+
+  ];
   # 注意修改这里的用户名与用户目录
   home.username = "ghost-him";
   home.homeDirectory = "/home/ghost-him";
