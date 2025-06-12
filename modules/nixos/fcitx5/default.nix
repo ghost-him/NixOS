@@ -14,7 +14,7 @@ in
         fcitx5-gtk
         fcitx5-pinyin-zhwiki
         wubi98 
-        #fcitx5-table-extra
+        libime
       ];
     };
 }
