@@ -41,6 +41,7 @@
     vscode
     netease-cloud-music-gtk
     jetbrains.clion
+    qq
   ];
 
   programs.vscode = {
