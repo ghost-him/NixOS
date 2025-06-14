@@ -40,7 +40,7 @@
     vivaldi
     vscode
     netease-cloud-music-gtk
-    clion
+    jetbrains.clion
   ];
 
   programs.vscode = {
