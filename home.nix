@@ -39,6 +39,8 @@
     go-musicfox
     vivaldi
     vscode
+    netease-cloud-music-gtk
+    clion
   ];
 
   programs.vscode = {

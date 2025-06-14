@@ -39,6 +39,8 @@
 
   # Set your time zone.
   time.timeZone = "Asia/Shanghai";
+  # 将硬件时钟设置为本地时间，以便与Windows兼容
+  time.hardwareClockInLocalTime = true; 
 
   # Configure network proxy if necessary
   # networking.proxy.default = "http://user:password@proxy:port/";
