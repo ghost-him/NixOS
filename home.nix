@@ -39,9 +39,9 @@
     go-musicfox
     vivaldi
     vscode
-    netease-cloud-music-gtk
     jetbrains.clion
     qq
+    qcm
   ];
 
   programs.vscode = {
